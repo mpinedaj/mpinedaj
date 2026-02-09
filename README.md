@@ -1,9 +1,9 @@
 ## 👋 About me
 
-🎮 Champion 2 in Rocket League
-
-💻 C++ developer  
+💻 C++ developer 
 ⚽ Football enjoyer  
 📚 I like reading 
+🎮 Champion 2 in Rocket League 
+
 
 ✨ Welcome to my GitHub profile
