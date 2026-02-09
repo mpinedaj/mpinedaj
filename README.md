@@ -1,6 +1,7 @@
-## 👋 Hi there
+## 👋 About me
 
 🎮 Champion 2 in Rocket League
+
 💻 C++ developer  
 ⚽ Football enjoyer  
 📚 I like reading 
