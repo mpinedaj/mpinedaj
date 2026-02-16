@@ -1,9 +1,8 @@
 ## About me
 
-⚪ C++ developer 
-💀 Football enjoyer  
-⚫ I like reading 
-🏁 Champion 2 in Rocket League 
+🔹 C++ Developer | Systems & Database Engineering  
+🗄 Experience with Oracle & PostgreSQL | 🐧 Debian Enthusiast  
+⚙️ Building efficient, maintainable software with modern C++  
+📖 Always learning — DB internals, system programming & clean architecture  
+⚽ Football fan | 🏎 Rocket League Champion
 
-
-Welcome to my GitHub profile
