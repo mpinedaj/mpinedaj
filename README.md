@@ -15,17 +15,6 @@
 
 ## 🧠 About Me
 
-```cpp
-Developer dev = {
-    .focus      = { "Systems Programming", "Database Engineering" },
-    .databases  = { "Oracle", "PostgreSQL" },
-    .os         = "Debian GNU/Linux",
-    .standards  = "Modern C++ (17/20)",
-    .learning   = { "DB Internals", "Clean Architecture", "Low-level Systems" },
-    .hobbies    = { "⚽ Football", "🏎 Rocket League" }
-};
-```
-
 - 🔧 Building **efficient, maintainable software** with modern C++
 - 🗄 Passionate about **database internals** and how storage engines work under the hood
 - 🐧 Daily driving **Debian** — because stability matters
