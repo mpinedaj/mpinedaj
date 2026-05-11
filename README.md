@@ -15,11 +15,11 @@
 
 ## About Me
 
-- 🔧 Building **efficient, maintainable software** with modern C++
-- 🗄 Passionate about **database internals** and how storage engines work under the hood
-- 🐧 Daily driving **Debian** — because stability matters
-- 📖 Lifelong learner — always going deeper, never settling for surface-level understanding
-- 🏆 Rocket League **Champion** rank (yes, it counts as a skill)
+- Building **efficient, maintainable software** with modern C++
+- Passionate about **database internals** and how storage engines work under the hood
+- Daily driving **Debian** — because stability matters
+- Lifelong learner — always going deeper, never settling for surface-level understanding
+- Rocket League **Champion** rank (yes, it counts as a skill)
 
 ---
 
