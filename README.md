@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hey, I'm <a href="https://github.com/mpinedaj">[ Martin ]</a> 👋
+  Hey, I'm <a href="https://github.com/mpinedaj">[ Martin ]</a> 
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🔧 Building **efficient, maintainable software** with modern C++
 - 🗄 Passionate about **database internals** and how storage engines work under the hood
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
