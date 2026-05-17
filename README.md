@@ -8,8 +8,6 @@
 Systems Engineer with a strong focus on backend development and relational databases.
 On the side, I develop games — which turns out to require the same discipline, just with different constraints.
  
-English level: B2
- 
 ---
  
 ## Backend & Databases
