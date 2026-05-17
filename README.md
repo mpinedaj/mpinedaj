@@ -14,22 +14,22 @@ On the side, I develop games — which turns out to require the same discipline,
  
 **Languages**
  
-- Java        -> OOP, design patterns, REST APIs
-- C++         -> Systems-level programming, performance-critical applications
+- Java        - OOP, design patterns, REST APIs
+- C++         - Systems-level programming, performance-critical applications
 **Databases**
  
-- Oracle      -> PL/SQL, stored procedures, query optimization, schema design
-- PostgreSQL  -> Relational modeling, indexing strategies, transactional integrity
+- Oracle      - PL/SQL, stored procedures, query optimization, schema design
+- PostgreSQL  - Relational modeling, indexing strategies, transactional integrity
  
 ## Operating Systems
  
-- Debian      -> Server environments, scripting, system administration
-- Fedora      -> Development workstation, tooling, package management
+- Debian      - Server environments, scripting, system administration
+- Fedora      - Development workstation, tooling, package management
  
 ## Game Development
  
-- Unity + C#          -> Game logic, physics, scene management
-- Godot + GDScript    -> 2D development, rapid prototyping
+- Unity + C#          - Game logic, physics, scene management
+- Godot + GDScript    - 2D development, rapid prototyping
 ---
  
 ## Recognition
