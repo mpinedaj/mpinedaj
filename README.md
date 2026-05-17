@@ -1,47 +1,48 @@
 
-<h1 align="center">
-  Hey, I'm <a href="https://github.com/mpinedaj">[ Martin ]</a> 
-</h1>
-
-<p align="center">
-  <em>C++ and Java Developer · Systems & Database Engineering · Debian Enthusiast</em>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+Systems+Programming;Oracle+%26+PostgreSQL+%7C+DB+Internals;Clean+Architecture+%7C+Modern+C%2B%2B;Java+%7C+Backend+Development;Always+learning+%F0%9F%93%96" alt="Typing SVG" />
-</p>
-
----
-
+# Martin Pineda Jaramillo
+ 
+> Systems Engineer Student. Backend-focused. Database-driven. Game developer.
+ 
 ## About Me
-
-- Building **efficient, maintainable software** with modern C++
-- Passionate about **database internals** and how storage engines work under the hood
-- Daily driving **Debian** — because stability matters
-- Lifelong learner — always going deeper, never settling for surface-level understanding
-- Rocket League **Champion** rank (yes, it counts as a skill)
-
+ 
+Systems Engineer with a strong focus on backend development and relational databases.
+On the side, I develop games — which turns out to require the same discipline, just with different constraints.
+ 
+English level: B2
+ 
 ---
-
-## Tech Stack
-
+ 
+## Backend & Databases
+ 
 **Languages**
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
+ 
+- Java        -> OOP, design patterns, REST APIs
+- C++         -> Systems-level programming, performance-critical applications
 **Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Tools & Environment**
-
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+ 
+- Oracle      -> PL/SQL, stored procedures, query optimization, schema design
+- PostgreSQL  -> Relational modeling, indexing strategies, transactional integrity
+ 
+## Operating Systems
+ 
+- Debian      -> Server environments, scripting, system administration
+- Fedora      -> Development workstation, tooling, package management
+ 
+## Game Development
+ 
+- Unity + C#          -> Game logic, physics, scene management
+- Godot + GDScript    -> 2D development, rapid prototyping
 ---
-
-
+ 
+## Recognition
+ 
+**First Place — 1° Game Jam Unillanos 2025**
+ 
+Won with [La Redencion del Llanero](https://felipebeltran.itch.io/la-redencion-del-llanero) — built under jam conditions, combining game design, programming, and storytelling.
+ 
+---
+ 
+## Contact
+ 
+Open to conversations about backend architecture, database design, and game development.
+ 
