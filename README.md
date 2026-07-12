@@ -30,7 +30,13 @@ On the side, I develop games — which turns out to require the same discipline,
  
 - Unity + C#          - Game logic, physics, scene management
 - Godot + GDScript    - 2D development, rapid prototyping
----
+
+## Current Focus
+
+**Cloud Telemetry API** — REST API for real-time metrics and monitoring
+
+Building a cloud-native backend from the ground up, covering the full
+deployment lifecycle from local containerized development to production on AWS.
  
 ## Recognition
  
