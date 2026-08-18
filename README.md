@@ -16,6 +16,7 @@ On the side, I develop games — which turns out to require the same discipline,
  
 - Java        - OOP, design patterns, REST APIs
 - C++         - Systems-level programming, performance-critical applications
+
 **Databases**
  
 - Oracle      - PL/SQL, stored procedures, query optimization, schema design
