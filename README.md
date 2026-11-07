@@ -23,7 +23,6 @@ Systems Engineer in training at Universidad de los Llanos with a strong focus on
 * **EventU Backend Architecture:** Developing the RESTful web services for a cross-platform event management application using **Java (Spring Boot)**, **Hibernate**, and **PostgreSQL**. Implementing secure JWT authentication and role-based access.
 * **3D Multiplayer Shooter (Unity):** Architecting a dedicated network infrastructure where player nodes connect through routers to a dedicated server node, managing heavy assets via Git LFS.
 * **Image Reconstruction App:** Building a full-stack application for digital image upscaling utilizing numerical interpolation, with a **React/Vite/TypeScript** frontend and a **Python FastAPI** backend.
-* **CLI Arch Scaffolder:** Creator of an open-source Java CLI generator to automate the setup of Clean Architecture project layouts.
 * **Cloud Telemetry API:** Building a cloud-native REST API for real-time metrics, covering the deployment lifecycle from local containers to AWS production.
 
 *(Projects developed independently and under Hell Over Studios)*
